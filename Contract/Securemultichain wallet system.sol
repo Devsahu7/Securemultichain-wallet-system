@@ -3,7 +3,7 @@ pragma solidity ^0.8.20;
 
 /**
  * @title SecureMultiChain Wallet System
- * @dev A secure wallet smart contract that supports multi-chain interoperability.
+ * @dev A secure wallet smart contract that supports  multi-chain interoperability.
  * Users can deposit, withdraw, and register chain mappings for cross-chain asset tracking.
  */
 
